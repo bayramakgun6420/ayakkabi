@@ -48,6 +48,7 @@ body{
     color: #fff;
     font-weight: bold;
     font-size: 25px;
+    margin-top: 10px;
 }
 .container .header p span{
     color: rgb(21, 19, 165)
@@ -66,7 +67,7 @@ body{
     display: block;
     width: 45px;
     height: 2px;
-    background-color: #fff;
+    background-color: white;
     margin-bottom: 4px;
     margin-right: 4px;
 }
