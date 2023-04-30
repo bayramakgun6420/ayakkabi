@@ -1,4 +1,4 @@
-# ayakkabi
+
 <h1> Ayakkabı Sitesi </h1>
 
 Bir ayakkabı sitesinin ana sayfa tasarımı hakkında çözüm üretildi
